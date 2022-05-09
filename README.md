@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jarek
-- 👀 I’m interested in Docker, automation and security.
-- 🌱 I’m currently learning doing CTFs on THM (check my rank)
+- 👀 I’m interested in Docker, Kubernetes, automation and security.
+- 🌱 I’m currently preparing for CKAD
 - 💞️ I’m looking to collaborate on anything related to devops / security 
 
 
